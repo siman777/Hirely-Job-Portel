@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What is Hirely?",
+    "answer": "Hirely is a modern job portal designed to connect employers with job seekers seamlessly. Companies can post job listings, and users can explore opportunities, apply, and track applications—all with intuitive navigation and secure authentication."
+  },
+  {
+    "question": "How do I create a job listing?",
+    "answer": "Employers can create a job listing by visiting the 'Post Job' section after signing in. Fill in the required details, such as job title, description, and qualifications, then publish it to attract potential candidates."
+  },
+  {
+    "question": "How do job seekers find job opportunities?",
+    "answer": "Job seekers can browse available positions using search filters like keyword, location, industry, and job type. The search function helps refine results to match their preferences."
+  },
+  {
+    "question": "How can I apply for a job?",
+    "answer": "To apply, click on the job posting, review the details, and follow the instructions. Submit your resume and any required documents, then track the progress of your application from your profile."
+  },
+  {
+    "question": "Can I bookmark jobs to apply later?",
+    "answer": "Yes! Simply click the 'Save Job' button on listings you’re interested in. Saved jobs can be accessed anytime from your profile in the 'Saved Jobs' section."
+  },
+  {
+    "question": "How do I manage job applications as an employer?",
+    "answer": "Employers can review applications, filter candidates based on qualifications, and communicate with applicants directly from the dashboard under 'Manage Applications'."
+  },
+  {
+    "question": "Can I schedule interviews through Hirely?",
+    "answer": "Yes, employers can coordinate interview schedules and send invitations to shortlisted candidates within the platform to streamline the hiring process."
+  },
+  {
+    "question": "Is there a way to receive job alerts?",
+    "answer": "Job seekers can set up alerts based on their preferences to receive notifications when new relevant job opportunities are posted."
+  },
+  {
+    "question": "How can employers find the best candidates?",
+    "answer": "Employers can use advanced filtering tools, AI-powered recommendations, and direct messaging features to connect with highly qualified applicants."
+  }
+]

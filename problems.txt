@@ -1,0 +1,4 @@
+Accordian in landingpage
+bar loader animation is not working in onboarding and all
+-i skip the saved jobs 
+-i skiped status of job like interview,reject,select...
