@@ -3,9 +3,7 @@ import { Button } from "@/components/ui/button";
 import {
   Carousel,
   CarouselContent,
-  CarouselItem,
-  CarouselNext,
-  CarouselPrevious,
+  CarouselItem
 } from "@/components/ui/carousel";
 import { Card, CardContent } from "@/components/ui/card";
 import companies from "../data/companies";
@@ -23,17 +21,17 @@ import {
 const LandingPage = () => {
   return (
     <main className="flex flex-col gap-10 sm:gap-20 py-10 sm:py-20">
-      <section className="text-center">
+      <section className="text-center ">
         <h1 className="flex flex-col items-center justify-center gradient-title text-4xl font-extrabold sm:text-6xl lg:text-8xl tracking-tighter py-4">
-          Find Your Dream Job{" "}
-          <span className="flex item-center gap-2 sm:gap-6">
-            And Get{" "}
-            <img
-              src="/logo 1.png"
+          Where Talent Meets Opportunity {" "}
+          <div className="flex item-center gap-2 sm:gap-6">
+            Welcome To {" "}
+            <img 
+              src="/logo.png"
               alt="Hirred Logo"
-              className="h-14 sm:h-24 lg:h-32"
+              className="h-14 sm:h-24 lg:h-40"
             />
-          </span>
+          </div>
         </h1>
         <p className="text-grey-300 sm:mt-4 text-xs sm:text-xl">
           Discover thousands of job opportunities or connect with your ideal
